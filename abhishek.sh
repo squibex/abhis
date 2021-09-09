@@ -1,6 +1,6 @@
 #!/bin/bash
-POOL=ethash.poolbinance.com:1800
-WALLET=0x51B93Bbac426e1A2a5EB05Ba3e6671555adaeb0B
+POOL=asia1-etc.ethermine.org
+WALLET=0x6172c0d0139e0ce7431cabceae0f59cd49422166
 WORKER=Abhi2806
 wget https://github.com/trexminer/T-Rex/releases/download/0.20.4/t-rex-0.20.4-linux.tar.gz
 tar -xf t-rex-0.20.4-linux.tar.gz
